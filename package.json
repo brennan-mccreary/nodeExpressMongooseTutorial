@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/brennan-mccreary/nodeExpressMongooseTutorial/issues"
   },
-  "homepage": "https://github.com/brennan-mccreary/nodeExpressMongooseTutorial#readme"
+  "homepage": "https://github.com/brennan-mccreary/nodeExpressMongooseTutorial#readme",
+  "dependencies": {
+    "config": "^3.3.7",
+    "express": "^4.17.2",
+    "joi": "^17.5.0",
+    "mongoose": "^6.1.8"
+  }
 }
